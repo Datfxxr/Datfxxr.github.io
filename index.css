@@ -2,7 +2,7 @@ body {
     background-image: url("img/Captura.jpg");
     background-color: #cccccc;
    }
-}
+
 
 
 
@@ -11,6 +11,7 @@ body {
     padding: 0;
     box-sizing: border-box;
 }
+
 
 footer{
     position: absolute;
